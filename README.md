@@ -8,7 +8,7 @@ pygame is required to run this code. Install pygame using
 ```
 pip install pygame
 ```
-More details can be found in reference 1 and 2.
+More details can be found in reference [1] and [2].
 
 
 ## References
