@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg2"
+   sodipodi:docname="meshed-gears.svg"
+   inkscape:export-filename="/home/david/Dropbox/grafX/myClipart/Rasters/dav1dp_meshed_gears.png"
+   viewBox="0 0 68.141307 75.014399"
+   inkscape:export-xdpi="58.833157"
+   version="1.1"
+   inkscape:export-ydpi="58.833157"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   width="68.141304"
+   height="75.014397"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="base"
+     fit-margin-left="0"
+     inkscape:zoom="5.7007195"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="-9.1216556"
+     inkscape:cy="37.539121"
+     inkscape:snap-grids="false"
+     inkscape:window-maximized="1"
+     showgrid="true"
+     fit-margin-right="0"
+     inkscape:document-units="px"
+     bordercolor="#666666"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1680"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     pagecolor="#ffffff"
+     inkscape:snap-to-guides="false"
+     inkscape:window-height="995"
+     fit-margin-top="0"
+     inkscape:pagecheckerboard="0">
+    <inkscape:grid
+       id="grid2985"
+       spacingx="10"
+       originy="-212.49455"
+       enabled="true"
+       originx="-141.40135"
+       spacingy="10"
+       visible="false"
+       snapvisiblegridlinesonly="true"
+       type="xygrid"
+       empspacing="5" />
+  </sodipodi:namedview>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(-141.40135,-764.8574)">
+    <path
+       id="path2992"
+       d="m 145.84,780.15 c -0.88956,0.60965 -1.8317,1.6972 -2.8481,3.4576 -6.5046,11.266 9.0432,5.7478 9.0432,18.757 -1e-5,13.009 -15.544,7.484 -9.039,18.75 6.5046,11.266 9.4914,-4.9574 20.758,1.5472 11.266,6.5046 -1.2868,17.21 11.722,17.21 13.0088,0 0.4482,-10.705 11.715,-17.21 11.266,-6.5046 14.257,9.7262 20.761,-1.5402 6.5046,-11.266 -9.0432,-5.7478 -9.0432,-18.757 1e-5,-13.009 15.544,-7.484 9.039,-18.75 -6.5046,-11.266 -9.4914,4.9574 -20.758,-1.5472 -11.266,-6.5046 1.2868,-17.21 -11.722,-17.21 -13.0088,0 -0.4482,10.705 -11.715,17.21 -9.506,5.4883 -13.11,-5.2096 -17.913,-1.9174 z m 22.132,9.2245 c 7.1744,-4.1421 16.348,-1.684 20.49,5.4904 4.1421,7.1744 1.684,16.348 -5.4904,20.49 -7.1744,4.1421 -16.348,1.684 -20.49,-5.4904 -4.1421,-7.1744 -1.684,-16.348 5.4904,-20.49 z"
+       style="fill:#ff0000;fill-opacity:1"
+       inkscape:connector-curvature="0" />
+  </g>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Meshed Gears</dc:title>
+        <dc:date>2013-03-13T14:10:54</dc:date>
+        <dc:description>gears/sprockets meshed together</dc:description>
+        <dc:source>https://openclipart.org/detail/176293/meshed-gears-by-dav1dp-176293</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>dav1dp</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>gear</rdf:li>
+            <rdf:li>machine</rdf:li>
+            <rdf:li>mesh</rdf:li>
+            <rdf:li>sprocket</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
