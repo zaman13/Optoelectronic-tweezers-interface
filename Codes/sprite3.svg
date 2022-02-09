@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="125.92612mm"
-   height="134.71765mm"
-   viewBox="0 0 125.92612 134.71765"
+   width="130.00002mm"
+   height="130mm"
+   viewBox="0 0 130.00002 130"
    version="1.1"
    id="svg2242"
    inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
@@ -23,13 +23,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.57727273"
-     inkscape:cx="0.86614173"
-     inkscape:cy="265.03937"
-     inkscape:window-width="1680"
-     inkscape:window-height="995"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="0.28863637"
+     inkscape:cx="136.85039"
+     inkscape:cy="12.125984"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
+     inkscape:window-x="1680"
+     inkscape:window-y="164"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -38,20 +38,23 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-106.14859,-216.31785)">
+     transform="translate(6.5755774,-198.01036)">
     <g
-       id="g3894">
+       id="g3894"
+       transform="matrix(0.9529397,0,0,0.89075182,-102.72878,10.324833)"
+       style="stroke-width:1.08539">
       <ellipse
-         style="fill:#ff0000;stroke-width:0.499999"
+         style="fill:#ff0000;stroke-width:0.542697"
          id="path3104-1"
          cx="169.11165"
          cy="283.6767"
          rx="31.565645"
          ry="33.453003" />
       <g
-         id="g3884">
+         id="g3884"
+         style="stroke-width:1.08539">
         <rect
-           style="fill:#ff0000;stroke-width:0.499999"
+           style="fill:#ff0000;stroke-width:0.542697"
            id="use3654"
            width="18.514423"
            height="38.876057"
@@ -63,7 +66,7 @@
            inkscape:transform-center-x="-3.3677777e-06"
            transform="rotate(60)" />
         <rect
-           style="fill:#ff0000;stroke-width:0.499999"
+           style="fill:#ff0000;stroke-width:0.542697"
            id="use3656"
            width="18.514423"
            height="38.876057"
@@ -75,7 +78,7 @@
            inkscape:transform-center-x="-3.3677777e-06"
            transform="rotate(120)" />
         <rect
-           style="fill:#ff0000;stroke-width:0.499999"
+           style="fill:#ff0000;stroke-width:0.542697"
            id="use3658"
            width="18.514423"
            height="38.876057"
@@ -87,7 +90,7 @@
            inkscape:transform-center-x="-3.3677777e-06"
            transform="scale(-1)" />
         <rect
-           style="fill:#ff0000;stroke-width:0.499999"
+           style="fill:#ff0000;stroke-width:0.542697"
            id="use3660"
            width="18.514423"
            height="38.876057"
@@ -99,7 +102,7 @@
            inkscape:transform-center-x="-3.3677777e-06"
            transform="rotate(-120)" />
         <rect
-           style="fill:#ff0000;stroke-width:0.499999"
+           style="fill:#ff0000;stroke-width:0.542697"
            id="use3662"
            width="18.514423"
            height="38.876057"
@@ -111,7 +114,7 @@
            inkscape:transform-center-x="-3.3677777e-06"
            transform="rotate(-60)" />
         <rect
-           style="fill:#ff0000;stroke-width:0.499999"
+           style="fill:#ff0000;stroke-width:0.542697"
            id="use3664"
            width="18.514423"
            height="38.876057"
