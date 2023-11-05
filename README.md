@@ -3,7 +3,7 @@
 <p float="left">
 <a href = "https://github.com/zaman13/Optoelectronic-tweezers-interface/tree/main/Codes"> <img src="https://img.shields.io/badge/Language-Python-blue" alt="alt text"> </a>
 <a href = "https://github.com/zaman13/Optoelectronic-tweezers-interface/blob/main/LICENSE"> <img src="https://img.shields.io/github/license/zaman13/Poisson-solver-2D" alt="alt text"></a>
-<a href = "https://github.com/zaman13/Optoelectronic-tweezers-interface/tree/main/Codes"> <img src="https://img.shields.io/badge/version-0.9.4-red" alt="alt text"> </a>
+<a href = "https://github.com/zaman13/Optoelectronic-tweezers-interface/tree/main/Codes"> <img src="https://img.shields.io/badge/version-0.9.5-red" alt="alt text"> </a>
 </p>
 
 A graphical inteface for generating shapes for optoelectronic tweezers experiment using python pygames
