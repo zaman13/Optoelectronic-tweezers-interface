@@ -20,7 +20,11 @@ pip install pygame
 ```
 More details can be found in reference [1] and [2].
 
-
+## Features
+- Create arbitrary number of circular and rectangular shaped objects
+- Change dimensions of objects dynamically
+- Group multiple objects together and move them simultaneously
+  
 ## References
 1. https://www.pygame.org/wiki/GettingStarted
 2. https://pypi.org/project/pygame/
