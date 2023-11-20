@@ -29,3 +29,6 @@ More details can be found in reference [1] and [2].
 ## References
 1. https://www.pygame.org/wiki/GettingStarted
 2. https://pypi.org/project/pygame/
+
+## Acknowledgement
+This work was partially supported by the National Institute of Health (NIH) Grant R01GM138716.
